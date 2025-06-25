@@ -6,6 +6,7 @@
 My name is is Kristoph Matthews. I'm a software engineering leader and multiple time founder who loves architecting, writing code, and building products and teams. You can read my thoughts on [my Blog](https://kristophmatthews.com)!
 
 - 🔭 I’m currently working on [DCPme](https://dcpme.com), a cloud-based on demand app to create digital cinema packages.
+- I used to work on the Zorro DeFi protocol and Web3 Wallet under a different user [Zorro Protocol - Open Source](https://github.com/Zorro-Finance/zorro-protocol-v1)
 - 🌱 I’m currently learning NVidia's CUDA framework for working with GPUs.
 - 👯 I’m looking to collaborate on blockchain DePIN projects and any other interesting opportunities- feel free to say hello!
 - 📫 How to reach me: k@kristophmatthews.com [Blog](https://kristophmatthews.com)
