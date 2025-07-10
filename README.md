@@ -12,6 +12,13 @@ My name is is Kristoph Matthews. I'm a software engineering leader and multiple 
 - 📫 How to reach me: k@kristophmatthews.com [Blog](https://kristophmatthews.com)
 - ⚡ Fun fact: My best ideas for coding come after working in the woodshop!
 
+### ⚡ %ls -open_source_contributions
+
+![Zorro Protocol (crypto DeFi protocol)](https://github.com/Zorro-Finance/zorro-protocol-v1)
+![tusd (high performance file uploads)](https://github.com/tus/tusd)
+![NewtonX (devops/infrastructure)](https://github.com/newtonx-inc)
+
+
 ### ⚡ %ls -technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
