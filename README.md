@@ -14,9 +14,9 @@ My name is is Kristoph Matthews. I'm a software engineering leader and multiple 
 
 ### ⚡ %ls -open_source_contributions
 
-- [Zorro Protocol (crypto DeFi protocol)](https://github.com/Zorro-Finance/zorro-protocol-v1)
-- [tusd (high performance file uploads)](https://github.com/tus/tusd)
-- [NewtonX (devops/infrastructure)](https://github.com/newtonx-inc)
+- [Zorro Protocol](https://github.com/Zorro-Finance/zorro-protocol-v1): An EVM cross-chain crypto DeFi protocol
+- [tusd](https://github.com/tus/tusd): high performance file uploads written in Go
+- [NewtonX](https://github.com/newtonx-inc): Some specialised devops/infrastructure libraries (e.g. for Kong gateways, service meshes, observability etc.)
 
 
 ### ⚡ %ls -technologies
