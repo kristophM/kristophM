@@ -16,10 +16,10 @@ My name is is Kristoph Matthews. I'm a software engineering leader and multiple 
 
 (If you see some references to the user @deltakilomilo, that was a previous identity for stealth crypto projects ;)
 
-- [Zorro Protocol](https://github.com/Zorro-Finance/zorro-protocol-v1): An EVM cross-chain crypto DeFi protocol
-- [Cardano Staking Node Automation](https://github.com/deltakilomilo/cardano-staking-node): Some devops and Dockerisation for running a Cardano staking node
-- [tusd](https://github.com/tus/tusd): high performance file uploads written in Go
-- [NewtonX](https://github.com/newtonx-inc): Some specialised devops/infrastructure libraries (e.g. for Kong gateways, service meshes, observability etc.)
+- [Zorro Protocol](https://github.com/Zorro-Finance/zorro-protocol-v1): An EVM cross-chain crypto DeFi protocol (Author)
+- [Cardano Staking Node Automation](https://github.com/deltakilomilo/cardano-staking-node): Some devops and Dockerisation for running a Cardano staking node (Author)
+- [tusd](https://github.com/tus/tusd): high performance file uploads written in Go (Contributor)
+- [NewtonX](https://github.com/newtonx-inc): Some specialised devops/infrastructure libraries (e.g. for Kong gateways, service meshes, observability etc.) (Contributor)
 
 
 ### ⚡ %ls -technologies
